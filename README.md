@@ -12,7 +12,7 @@ We collect a total of 13,380 images captured on 2,210 different scenes. We use d
 
 The dataset can be divided into two different polarization conditions. One consists of 1010 groups of images photographed with fixed polarization angles, and the other one consists of 1200 pairs of images photographed with random polarization angles. For the former,  each group contains 12 images photographed with 12 fixed polarization angles.
 
-![2](dataset example.png)
+![2](dataset_example.png)
 
 **Our full dataset is publicly available**.   
 
